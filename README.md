@@ -5,8 +5,8 @@ Stopwatch maintains a simple stopwatch functionality.
 
 Features:
 
-Start Button: click of start button, start the timer If timer is 0 start from beginning else start from wherever last stopped
+Start Button: click of start button, if clicked initially it starts  the timer If timer is 0 start from beginning else starts from wherever freezed last time
 
-Stop Button: Stop timer once clicked on the stop button
+Stop Button: when stop button is clicked  on timer the time gets freezed
 
-Reset Button:On click of reset stop the watch (if already started) and set timer as 0
+Reset Button:click of reset stop the watch and timer is set  as 0
