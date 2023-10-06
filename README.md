@@ -1,7 +1,7 @@
 # stopwatch
 
 
-Stopwatch maintains a simple stopwatch functionality. 
+This project maintains a stopwatch functionality. 
 
 Features:
 
